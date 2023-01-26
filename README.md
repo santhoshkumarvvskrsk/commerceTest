@@ -1,5 +1,6 @@
 # commerceTest
 End 2 End Automation Test Scripts
+
 The Project model of Framework is Page Object Model, which stores all the element locators and it’s functionalities for each page and the Test’s are created by inheriting the Page objects.
 All the Pages and it’s locators are created in the package PageClasses and all the Tests are created in the commerceTest package.
 In PageClasses , we have created two pages like Register and Login.
