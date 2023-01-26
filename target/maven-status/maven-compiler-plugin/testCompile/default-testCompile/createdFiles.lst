@@ -1,0 +1,5 @@
+com\testing\PageClasses\RegisterPage.class
+com\testing\Helpers\BrowserFactory.class
+com\testing\PageClasses\LoginPage.class
+com\testing\commerceTest\LoginPageTest.class
+com\testing\commerceTest\RegisterPageTest.class
