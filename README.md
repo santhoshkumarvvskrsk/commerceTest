@@ -22,6 +22,16 @@ below is the command allure serve **path of allureresults folder in the project*
 
  
 Allure Report:
+
+To Configure Allure Report, 
+Go to https://docs.qameta.io/allure/
+Click on Maven Central link in 2.1.4. Manual installation
+Download allure-commandline-2.9.0 zip
+Extract the zip file
+copy the path till bin folder and add the path to Path variable in System variables
+![image](https://user-images.githubusercontent.com/85029195/215442558-0e531dce-9596-447a-941e-2a7119d4d1a7.png)
+After executing the suite, execute the below command to generate report
+allure serve path_of_allure_resutls_folder
 ![image](https://user-images.githubusercontent.com/85029195/214897642-865709e0-fbc6-47b5-88e7-2a66082fc661.png)
 
  
